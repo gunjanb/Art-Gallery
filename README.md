@@ -80,7 +80,7 @@ This application [Happy Little Art Gallery](https://happylittleartgallery072021.
 
 ## Contributors
 
-- Gunjun-Bhargava
+- Gunjan-Bhargava
 - Kyle Canoy
 - Tami Shepard
 - Tiffany Washke
@@ -119,7 +119,7 @@ This application is covered by the [MIT License](https://opensource.org/licenses
 
 If you have any questions about project you can contact contributors by email or by visiting their github profile.
 
-### Gunjun Bhargava
+### Gunjan Bhargava
 
 - Email : gunjanbhargava2021@gmail.com
 - GitHub: [Gunjan Bhargava](https://github.com/gunjanb)
