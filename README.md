@@ -2,7 +2,7 @@
 
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
-This application [Happy Little Art Gallery](https://happylittleartgallery072021.herokuapp.com/) is created for budding artists who wants to find inspiration from other artists, showcase their own work and even sell their artwork to others. This application is build keeping in mind that when we critique the work of others, we not only offer helpful suggestions but we also learn to find things that can be applied to our own work. We can see how other artists solve problems and if their solutions are better than our own, we can borrow them. As a result, we all grow.
+This application [Happy Little Art Gallery](https://happylittleartgallery.herokuapp.com/) is created for budding artists who wants to find inspiration from other artists, showcase their own work and even sell their artwork to others. This application is build keeping in mind that when we critique the work of others, we not only offer helpful suggestions but we also learn to find things that can be applied to our own work. We can see how other artists solve problems and if their solutions are better than our own, we can borrow them. As a result, we all grow.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ This application [Happy Little Art Gallery](https://happylittleartgallery072021.
 
 ## Usage
 
-- Go to [Deployed **Happy Little Art Gallerty**](https://happylittleartgallery072021.herokuapp.com/)
+- Go to [Deployed **Happy Little Art Gallerty**](https://happylittleartgallery.herokuapp.com/)
 - Use the **Login** tab to **Sign Up**
 - Enter **Username**, **Email**, and **Password**
 - The user is directed to their personal **Dashboard**
@@ -44,7 +44,7 @@ This application [Happy Little Art Gallery](https://happylittleartgallery072021.
 
 ### Mock Up
 
-- [View App Here](https://happylittleartgallery072021.herokuapp.com/)
+- [View App Here](https://happylittleartgallery.herokuapp.com/)
 
 - **Home**, **Sign Up** and **Login** to **Dashboard**
 
@@ -70,7 +70,7 @@ This application [Happy Little Art Gallery](https://happylittleartgallery072021.
 
   ![Purchase through PayPal](public/images/purchase-paypal.gif)
 
-- **Logout** of [Happy Little Art Gallery](https://happylittleartgallery072021.herokuapp.com/)
+- **Logout** of [Happy Little Art Gallery](https://happylittleartgallery.herokuapp.com/)
 
   ![Logout of Website](public/images/logout.gif)
 
